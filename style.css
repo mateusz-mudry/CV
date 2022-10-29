@@ -64,6 +64,7 @@ header li {
     list-style:none;
     padding: 0;
     display: flex;
+    flex-wrap: wrap;
 
 }
 
@@ -80,7 +81,6 @@ header li {
 
 .hobbies p {
     color: grey;
-    line-height: 1.5;
 }
 
 p {
